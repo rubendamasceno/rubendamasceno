@@ -33,3 +33,9 @@ Estou desenvolvendo meus fundamentos de engenharia de software e backend, com fo
 ## 🎯 Objetivo
 
 Construir uma base sólida em desenvolvimento backend, desenvolver projetos práticos e conquistar minha primeira oportunidade como desenvolvedor.
+
+## 📫 Contato
+
+Estou aberto a oportunidades de estágio e aprendizado na área de desenvolvimento backend.
+
+📧 **E-mail:** ruben.d.almeidaz@outlook.com
